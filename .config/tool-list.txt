@@ -1,0 +1,54 @@
+# Shell & Navigation
+Zsh + Oh My Zsh – A powerful shell with themes and plugins
+fzf – Fuzzy finder for quickly searching files, commands, and history
+zoxide – Smart directory jumper (replaces cd)
+bat – Better cat, with syntax highlighting and line numbers
+exa – A modern replacement for ls with better formatting
+
+
+# Productivity & Task Management
+tmux – Terminal multiplexer for managing multiple sessions efficiently
+Taskwarrior – A powerful CLI task manager
+todo.txt – Simple and effective to-do list management in plaintext
+timewarrior – Tracks how much time you spend on tasks
+
+
+# File & Text Processing
+ripgrep (rg) – Fast searching of text inside files (better than grep)
+fd – Faster find alternative
+jq – Process JSON files easily
+yq – Like jq, but for YAML
+sed & awk – Essential for text processing
+
+
+# Networking & Downloading
+aria2 – Fast multi-threaded downloader
+wget / curl – Fetch data from the internet
+httpie – Easier alternative to curl for making API requests
+
+
+# Development & Scripting
+neovim – A highly customizable text editor (better Vim)
+entr – Auto-run commands when files change
+tldr – Simple, community-driven man pages with practical examples
+direnv – Automatically load environment variables when entering directories
+cht.sh – Quick cheatsheets for programming and CLI commands
+
+
+# System Monitoring & Performance
+htop – Better top for monitoring system processes
+btop – Even more advanced resource monitoring
+duf – Better df, shows disk usage in a neat format
+ncdu – Find out what's eating up your disk space
+
+
+# Version Control & Backup
+git – Essential for version control
+lazygit – A simple terminal UI for Git
+rsync – Fast file syncing and backups
+borgbackup – Efficient and encrypted backups
+
+
+# Automation & Aliases
+make – Automate build processes
+just – A modern alternative to make for simple task automation

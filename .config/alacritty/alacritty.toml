@@ -1,0 +1,65 @@
+
+# GPU Acceleration
+[window]
+opacity = 0.95  # Slight transparency (optional)
+decorations = "full"  # Set to "none" for borderless
+startup_mode = "Maximized"
+
+# Font (Use a fast font like JetBrains Mono or FiraCode)
+[font]
+size = 18.0
+  [font.normal]
+  family = "JetBrainsMono Nerd Font"
+  style = "Regular"
+
+# Faster Scrolling
+[scrolling]
+history = 10000
+multiplier = 5  # Increase scroll speed
+
+# Fix Input Latency
+[cursor]
+unfocused_hollow = true
+
+# Colors (Gruvbox for better contrast)
+[colors]
+  [colors.primary]
+  background = "#282828"
+  foreground = "#ebdbb2"
+  
+  [colors.normal]
+  black = "#282828"
+  red = "#cc241d"
+  green = "#98971a"
+  yellow = "#d79921"
+  blue = "#458588"
+  magenta = "#b16286"
+  cyan = "#689d6a"
+  white = "#a89984"
+
+# Reduce Input Lag
+[mouse]
+hide_when_typing = true
+
+[keyboard]
+
+# Key Bindings
+[[keyboard.bindings]]
+key = "V"
+mods = "Control"
+action = "Paste"
+
+[[keyboard.bindings]]
+key = "C"
+mods = "Control"
+action = "Copy"
+
+[[keyboard.bindings]]
+key = "Q"
+mods = "Control"
+action = "Quit"
+
+[general]
+
+# Performance Tweaks
+live_config_reload = true  # Reload config on changes
