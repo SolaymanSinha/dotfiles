@@ -1,6 +1,0 @@
-{
-  "dependencies": {
-    "create-next-app": "^15.1.6",
-    "create-strapi-app": "^5.4.0"
-  }
-}
