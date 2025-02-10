@@ -1,0 +1,12 @@
+# Ignore Everyting
+*
+node_modules/
+.config/yarn
+.config/iterm2
+
+# Allow Some Specific File
+!.gitignore
+!.config/*
+!.bashrc
+!.vimrc
+!.zshrc
